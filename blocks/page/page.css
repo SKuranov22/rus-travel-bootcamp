@@ -2,7 +2,7 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 900;
-    src: url(../../vendor/fonts/Inter-ExtraBold.ttf);
+    src: url(../../vendor/fonts/Inter-Black.ttf);
 }
 
 @font-face {
@@ -16,11 +16,11 @@
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    src: url(../../vendor/fonts/Inter-Light.ttf);
+    src: url(../../vendor/fonts/Inter-Regular.ttf);
 }
 
 .page {
-    font-family: 'Inter';
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
     background-color: #2A2C2F;
     max-width: 1280px;
     margin: 0 auto;
