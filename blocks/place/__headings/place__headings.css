@@ -1,0 +1,10 @@
+.place__headings {
+    display: flex;
+}
+
+@media screen and (max-width: 696px) {
+    .place__headings {
+        flex-direction: column;
+        margin: 0 16px;
+    }
+}

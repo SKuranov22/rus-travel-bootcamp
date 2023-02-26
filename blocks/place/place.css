@@ -1,0 +1,29 @@
+.place {
+    display: flex;
+    flex-direction: column;
+    margin: 80px auto 0;
+}
+
+.place:first-of-type {
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1025px) {
+    .place {
+        width: calc(100% - 96px);
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .place {
+        width: calc(100% - 48px);
+        margin: 72px auto 0;
+    }
+}
+
+@media screen and (max-width: 696px) {
+    .place {
+        width: 100%;
+        margin: 64px auto 0;
+    }
+}

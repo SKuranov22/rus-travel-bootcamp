@@ -1,0 +1,17 @@
+.cover__background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding-top: 62.6%;
+  max-width: 100%;
+  background-image:  linear-gradient(to right, rgba(42, 44, 47, .3), rgba(42, 44, 47, .3)), /* #2a2c2f в rgba */
+     url('../../../images/__background.jpg');
+  background-position: center;
+  background-size: cover;
+  text-decoration: none;
+}
+.cover__background:hover {
+  animation: black-opacity .3s linear forwards;
+}

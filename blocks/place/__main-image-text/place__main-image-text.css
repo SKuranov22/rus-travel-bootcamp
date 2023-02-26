@@ -1,0 +1,12 @@
+.place__main-image-text {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 696px) {
+    .place__main-image-text {
+        flex-direction: column;
+    }
+}
