@@ -8,7 +8,7 @@
   line-height: 22px;
   color: #ffffff;
   text-align: center;
-  z-index: 10;
+  z-index: 1;
   margin: 32px 0 0;
 }
 @media (max-width: 696px) {
@@ -16,6 +16,5 @@
     max-width: calc(100% - 32px);
     font-size: 14px;
     line-height: 16px;
-    margin: 0;
   }
 }
