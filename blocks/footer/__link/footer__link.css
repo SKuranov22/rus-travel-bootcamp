@@ -6,32 +6,25 @@
     text-decoration: none;
     opacity: 1;
     transition: opacity .3s linear;
-    max-height: 18px;
 }
 
 .footer__link:hover {
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 725px) {
     .footer__link {
         font-size: 12px;
         line-height: 14px;
-    }    
+    }   
+     
 }
 
 @media screen and (max-width: 551px) {
     .footer__link {
         font-size: 24px;
         line-height: 24px;
-        margin: 0 0 32px;
-    }    
+    }
+
 }
 
-@media screen and (max-width: 551px) {
-    .footer__link:last-of-type {
-        font-size: 24px;
-        line-height: 24px;
-        margin: 0 0 48px;
-    }    
-}

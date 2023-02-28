@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: end;
     margin: 0 0 48px 40px;
+    width: calc();
 
 }
 

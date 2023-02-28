@@ -30,7 +30,6 @@
 
 @media screen and (max-width: 395px) {
     .place {
-        width: 100%;
         margin: 50px auto 0;
     }
 }

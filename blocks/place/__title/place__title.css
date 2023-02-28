@@ -4,24 +4,28 @@
     line-height: 76px;
     color: #FFFFFF;
     margin: 0 0 48px;
-    width: 460px;
+    max-width: 460px;
+    min-width: 459.9px;
 }
 
 @media screen and (max-width: 1025px) {
     .place__title {
-        width: 440px;
+        max-width: 440px;
+        min-width: 439.9px;
     }
 }
 
 @media screen and (max-width: 912px) {
     .place__title {
-        width: 380px;
+        max-width: 380px;
+        min-width: 379.9px;
     }
 }
 
 @media screen and (max-width: 769px) {
     .place__title {
-        width: 340px;
+        max-width: 340px;
+        min-width: 339.9px;
         font-size: 42px;
         line-height: 46px;
     }
@@ -29,19 +33,16 @@
 
 @media screen and (max-width: 696px) {
     .place__title {
-        width: 90vw;
-        font-size: 42px;
-        line-height: 46px;
+        max-width: 90%;
         margin: 0 0 32px;
     }
 }
 
 @media screen and (max-width: 361px) {
     .place__title {
-        width: 90vw;
+        max-width: 90%;
         font-size: 32px;
         line-height: 35px;
-        margin: 0 0 32px;
     }
 }
 
