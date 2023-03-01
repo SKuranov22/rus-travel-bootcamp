@@ -5,27 +5,25 @@
     color: #FFFFFF;
     margin: 0 0 48px;
     max-width: 460px;
-    min-width: 459.9px;
+    padding-right: 40%;
+    box-sizing: border-box;
 }
 
 @media screen and (max-width: 1025px) {
     .place__title {
         max-width: 440px;
-        min-width: 439.9px;
     }
 }
 
 @media screen and (max-width: 912px) {
     .place__title {
         max-width: 380px;
-        min-width: 379.9px;
     }
 }
 
 @media screen and (max-width: 769px) {
     .place__title {
         max-width: 340px;
-        min-width: 339.9px;
         font-size: 42px;
         line-height: 46px;
     }
@@ -40,7 +38,7 @@
 
 @media screen and (max-width: 361px) {
     .place__title {
-        max-width: 90%;
+        max-width: 80%;
         font-size: 32px;
         line-height: 35px;
     }
