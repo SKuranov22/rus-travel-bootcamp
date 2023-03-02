@@ -1,4 +1,4 @@
-# [Проект: "Путешествие по России"](skuranov22.github.io/rus-travel-bootcamp/)
+# Проект: "Путешествие по России"
 ## [Ссылка на проект](skuranov22.github.io/rus-travel-bootcamp/)
 
 ## Описание проекта
