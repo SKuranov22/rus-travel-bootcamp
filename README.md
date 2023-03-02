@@ -1,4 +1,4 @@
-# [Проект: "Путешествие по России"](https://skuranov22.github.io/rus-travel-bootcamp/)
+# [Проект: "Путешествие по России" (bootcamp)](https://skuranov22.github.io/rus-travel-bootcamp/)
 
 ## Описание проекта
 Адаптивная верстка страницы по методологии БЭМ с использованием макета в Figma
